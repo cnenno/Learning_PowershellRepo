@@ -1,4 +1,5 @@
-﻿## Super simple ping through PS
+## Super simple ping through PS
+## Replace the IPs listed with the ones you want to ping!
 
 "8.8.8.8
 8.8.4.4
