@@ -1,4 +1,4 @@
-﻿
+## Execution policy and silently use cmdlets
 ## This is called "do this first"
 ## When performing more complex actions
 ## it is recommended to include these cmdlets 
