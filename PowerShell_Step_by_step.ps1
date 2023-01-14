@@ -2,7 +2,7 @@
 # PowerShell Providers:
 #
 # This script is for tutorial purposes ONLY
-# You made need to make corrections to some of the 
+# You may need to make corrections to some of the 
 # lines in order to make them work on your VM or 
 # home PC. Make sure not to run cmdlets directly
 # against your system when possible!
